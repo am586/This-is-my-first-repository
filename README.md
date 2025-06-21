@@ -1,2 +1,1 @@
-# This-is-my-first-repository
-Author Aman joshi
+# This-is-my-first-repository. Author -Aman joshi
